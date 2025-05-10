@@ -13,7 +13,6 @@ A retro-style **Space Invaders** game built in Java using the **Model-View-Contr
 ### ✅ Prerequisites
 
 - Java JDK 17 or later
-- Visual Studio Code
 - Extension Pack for Java (recommended)
 
 ## 🎮 Controls
