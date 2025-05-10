@@ -49,7 +49,7 @@ A retro-style **Space Invaders** game built in Java using the **Model-View-Contr
 
 ## 🛠️ How to Run
 
-### In VS Code
+### Running the Project in Your IDE
 
 1. Open the project folder in VS Code.
 2. Make sure `App.java` is set as the entry point.
